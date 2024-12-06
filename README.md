@@ -1,6 +1,6 @@
 <div align="center">
-	
-## Hi there 👋 Welcome to my profile!!!
+
+<h1> Hi there 👋 Welcome to my profile!!! </h1>
 
 <p style="display: inline-block; vertical-align: middle; margin-right: .3em">I hope u enjoy it</p>
 <img src="./src/catjam-cat-dancing.gif" alt="catjam" width="30" style="display: inline-block; vertical-align: middle;">
@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-I am a computer engineering student, currently halfway through degree. I am expanding my knowledge in back-end, 
+I am a computer engineering student, currently halfway through degree. I am expanding <br> my knowledge in back-end, 
 front-end, devops, and some autodidact ia projects in python. I am opened door in get hired during my degree, or 
 some freelance project so do not be afraid of sending me some request or email.
 
@@ -26,14 +26,7 @@ And sometimes I fixed some troubles front-end part in Angular. Following are my 
   - Angular
 - 👯 I am looking forward to collaborate on open source projects.
 - ✔  Please ask me about anything
-- Build tools: Maven
-- Servers: Tomcat
-- Cloud: AWS
-- Version Control: Git
-- Prototyping: JustInMind
-- IDE: Intellij IDEA, VS Code, Eclips, Netbeans
-- Operating System: Linux, Mac, Windows
-- Project Management:Scrum
+- 📫 Reach out to me at: <a href="pedrojcros@gmail.com">pedrojcros@gmail.com</a>
 
 Soft Skills:
 
@@ -68,11 +61,11 @@ Soft Skills:
     ![Backend_tech](https://skillicons.dev/icons?i=java,spring,figma&theme=light)
 
 <br>
-    
+
 - **Front-End Development**:
 
     ![Frontend_tech](https://skillicons.dev/icons?i=angular,html,css,javascript&theme=light)
-    
+
 <br>
 
 - **Softwares and Tools**:
@@ -93,7 +86,7 @@ Soft Skills:
 - **Autodiact**:
 
 	![Autodidact](https://skillicons.dev/icons?i=python,unity,r,markdown&theme=light)
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+	![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br>
 
