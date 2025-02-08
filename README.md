@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-I am a computer engineering student, currently halfway through degree. I am expanding <br> my knowledge in back-end, 
+I am a computer engineering student, currently halfway through degree. I am expanding my knowledge in back-end, 
 front-end, devops, and some autodidact ia projects in python. I am opened door in get hired during my degree, or 
 some freelance project so do not be afraid of sending me some request or email.
 
